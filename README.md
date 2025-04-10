@@ -6,7 +6,7 @@ corresponden a distintos tipos de cáncer.
 
 **Documentos:**
 
-- [Reporte]()
+- [Reporte](A3_1_594557.html)
 - [Reporte en ipynb](A3_1_594557.ipynb)
 - [Base de datos](A3.1_Khan.csv)
 
